@@ -50,6 +50,11 @@ A simplified web-based lead generation tool that extracts business information (
 
 [Download Final Report (PDF)](assets/LeadGen_Report_HarshDwivedi.pdf)
 
+## 🎥 Video Walkthrough
+
+You can watch the complete walkthrough here: [video_walkthrough.mp4](video_walkthrough.mp4)  
+Or [View Raw](https://github.com/Harshdwivedi7045/Leadgen_Scraper/raw/main/video_walkthrough.mp4) to download or open directly.
+
 ## 🧪 Installation & Setup
 
 1. **Clone the repository**
