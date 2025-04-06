@@ -31,11 +31,24 @@ A simplified web-based lead generation tool that extracts business information (
 
 ---
 
-## 📸 Screenshots
+## 📸 Demo Screenshots
 
-![Screenshot 2025-04-06 121537.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202025-04-06%20121537.png)
-![Screenshot 2025-04-06 121624.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202025-04-06%20121624.png)
-![Screenshot 2025-04-06 121737.png](..%2F..%2F..%2FOneDrive%2FPictures%2FScreenshots%2FScreenshot%202025-04-06%20121737.png)
+### 🧭 Step 1 – User Input
+
+![Input Page](assets/Screenshot%202025-04-06%20121537.png)
+
+### 🔎 Step 2 – Scraper Running
+
+![Scraper Page](assets/Screenshot%202025-04-06%20121624.png)
+
+### 📋 Step 3 – Results Displayed
+
+![Results Page](assets/Screenshot%202025-04-06%20121737.png)
+
+
+## 📄 Report
+
+[Download Final Report (PDF)](assets/LeadGen_Report_HarshDwivedi.pdf)
 
 ## 🧪 Installation & Setup
 
